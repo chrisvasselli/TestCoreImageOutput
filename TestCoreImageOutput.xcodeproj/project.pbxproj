@@ -13,6 +13,14 @@
 		833997BC245E1BB100313E7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 833997BA245E1BB100313E7F /* Main.storyboard */; };
 		833997BE245E1BB300313E7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 833997BD245E1BB300313E7F /* Assets.xcassets */; };
 		833997C1245E1BB300313E7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 833997BF245E1BB300313E7F /* LaunchScreen.storyboard */; };
+		833997C9245E1C4700313E7F /* MarioSRGB.png in Resources */ = {isa = PBXBuildFile; fileRef = 833997C8245E1C4700313E7F /* MarioSRGB.png */; };
+		833997CB245E1D5C00313E7F /* door-warningDisplayP3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 833997CA245E1D5C00313E7F /* door-warningDisplayP3.jpg */; };
+		833997D7245E1E7A00313E7F /* door-warningSRGB.png in Resources */ = {isa = PBXBuildFile; fileRef = 833997D6245E1E7A00313E7F /* door-warningSRGB.png */; };
+		833997D9245E207600313E7F /* stardew-valleySRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 833997D8245E207600313E7F /* stardew-valleySRGB.jpg */; };
+		833997DD245E21CD00313E7F /* MarioDisplayP3.png in Resources */ = {isa = PBXBuildFile; fileRef = 833997DC245E21CD00313E7F /* MarioDisplayP3.png */; };
+		833997DF245E220400313E7F /* door-warningSRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 833997DE245E220400313E7F /* door-warningSRGB.jpg */; };
+		833997E1245E230000313E7F /* stardew-valleySRGB.png in Resources */ = {isa = PBXBuildFile; fileRef = 833997E0245E230000313E7F /* stardew-valleySRGB.png */; };
+		833997E3245E234500313E7F /* stardew-valleyDisplayP3.png in Resources */ = {isa = PBXBuildFile; fileRef = 833997E2245E234500313E7F /* stardew-valleyDisplayP3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,14 @@
 		833997BD245E1BB300313E7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		833997C0245E1BB300313E7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		833997C2245E1BB300313E7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		833997C8245E1C4700313E7F /* MarioSRGB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MarioSRGB.png; sourceTree = "<group>"; };
+		833997CA245E1D5C00313E7F /* door-warningDisplayP3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "door-warningDisplayP3.jpg"; sourceTree = "<group>"; };
+		833997D6245E1E7A00313E7F /* door-warningSRGB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "door-warningSRGB.png"; sourceTree = "<group>"; };
+		833997D8245E207600313E7F /* stardew-valleySRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "stardew-valleySRGB.jpg"; sourceTree = "<group>"; };
+		833997DC245E21CD00313E7F /* MarioDisplayP3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MarioDisplayP3.png; sourceTree = "<group>"; };
+		833997DE245E220400313E7F /* door-warningSRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "door-warningSRGB.jpg"; sourceTree = "<group>"; };
+		833997E0245E230000313E7F /* stardew-valleySRGB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stardew-valleySRGB.png"; sourceTree = "<group>"; };
+		833997E2245E234500313E7F /* stardew-valleyDisplayP3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stardew-valleyDisplayP3.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +77,14 @@
 				833997B8245E1BB100313E7F /* ViewController.swift */,
 				833997BA245E1BB100313E7F /* Main.storyboard */,
 				833997BD245E1BB300313E7F /* Assets.xcassets */,
+				833997D8245E207600313E7F /* stardew-valleySRGB.jpg */,
+				833997C8245E1C4700313E7F /* MarioSRGB.png */,
+				833997DC245E21CD00313E7F /* MarioDisplayP3.png */,
+				833997DE245E220400313E7F /* door-warningSRGB.jpg */,
+				833997D6245E1E7A00313E7F /* door-warningSRGB.png */,
+				833997CA245E1D5C00313E7F /* door-warningDisplayP3.jpg */,
+				833997E2245E234500313E7F /* stardew-valleyDisplayP3.png */,
+				833997E0245E230000313E7F /* stardew-valleySRGB.png */,
 				833997BF245E1BB300313E7F /* LaunchScreen.storyboard */,
 				833997C2245E1BB300313E7F /* Info.plist */,
 			);
@@ -125,9 +149,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				833997D7245E1E7A00313E7F /* door-warningSRGB.png in Resources */,
+				833997D9245E207600313E7F /* stardew-valleySRGB.jpg in Resources */,
+				833997DD245E21CD00313E7F /* MarioDisplayP3.png in Resources */,
+				833997E3245E234500313E7F /* stardew-valleyDisplayP3.png in Resources */,
+				833997E1245E230000313E7F /* stardew-valleySRGB.png in Resources */,
+				833997C9245E1C4700313E7F /* MarioSRGB.png in Resources */,
 				833997C1245E1BB300313E7F /* LaunchScreen.storyboard in Resources */,
+				833997CB245E1D5C00313E7F /* door-warningDisplayP3.jpg in Resources */,
 				833997BE245E1BB300313E7F /* Assets.xcassets in Resources */,
 				833997BC245E1BB100313E7F /* Main.storyboard in Resources */,
+				833997DF245E220400313E7F /* door-warningSRGB.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
